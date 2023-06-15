@@ -6,7 +6,7 @@
 
 - 💬 Ask us about **Python, Machine Learning and Data Science.**
 
-- 🔭 Neeat Reepositories about Data Science using [Kaggle](https://kaggle.com/dsfelix) Competitions and Projects as inspirations.
+- 🔭 Neat Reepositories about Data Science using [Kaggle](https://kaggle.com/dsfelix) Competitions and Projects as inspirations.
 
 <br>
 
